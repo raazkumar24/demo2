@@ -12,7 +12,7 @@ const testimonials = [
     name: 'Rajesh Kumar',
     role: 'Member since 2023',
     content:
-      'R Fitness transformed my life. The trainers are exceptional and the facilities are world-class. I have lost 20kg in 6 months!',
+      'Your GYM transformed my life. The trainers are exceptional and the facilities are world-class. I have lost 20kg in 6 months!',
     rating: 5,
     image: '/images/trainer1.jpg',
   },
@@ -48,7 +48,7 @@ const highlights = [
   {
     icon: Users,
     title: 'Expert Trainers',
-    description: 'Certified professionals dedicated to your fitness journey.',
+    description: 'Certified professionals dedicated to youYour GYM journey.',
   },
 ];
 
@@ -177,7 +177,7 @@ export default function Home() {
         <div className="absolute inset-0 hero-image">
           <img
             src="/images/hero_gym_bg.jpg"
-            alt="R Fitness Gym"
+            alt="Your GYM Gym"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-[#0B0B0D]/95 via-[#0B0B0D]/70 to-transparent" />
@@ -197,7 +197,7 @@ export default function Home() {
             <div className="gradient-rule w-32 mb-6" />
             <p className="text-[#B8BCC8] text-lg sm:text-xl max-w-xl mb-8 leading-relaxed">
               Strength training, cardio zones, and expert coaching—built for real
-              results. Join Chandigarh&apos;s premier fitness destination.
+              results. Join Chandigarh&apos;s premieYour GYM destination.
             </p>
             <div className="flex flex-wrap gap-4">
               <Link to="/membership">
@@ -235,14 +235,14 @@ export default function Home() {
         <div className="w-full px-4 sm:px-6 lg:px-8 xl:px-12">
           <div className="max-w-4xl mx-auto text-center intro-text">
             <span className="font-mono-label text-xs uppercase tracking-[0.2em] text-[#E11D2E] mb-4 block">
-              Welcome to R Fitness
+              Welcome to Your GYM
             </span>
             <h2 className="font-display font-bold text-3xl sm:text-4xl lg:text-5xl text-white mb-6">
               Your Journey to a{' '}
               <span className="text-gradient">Stronger You</span> Starts Here
             </h2>
             <p className="text-[#B8BCC8] text-lg leading-relaxed max-w-3xl mx-auto">
-              At R Fitness, we believe fitness is more than just exercise—it&apos;s a
+              At Your GYM, we believe fitness is more than just exercise—it&apos;s a
               lifestyle. Our state-of-the-art facility in Chandigarh combines
               cutting-edge equipment, expert trainers, and a supportive community
               to help you achieve your goals. Whether you&apos;re looking to build
@@ -423,7 +423,7 @@ export default function Home() {
               <span className="text-gradient">Your Life?</span>
             </h2>
             <p className="text-[#B8BCC8] text-lg leading-relaxed mb-10 max-w-2xl mx-auto">
-              Join R Fitness today and take the first step towards a healthier,
+              Join Your GYM today and take the first step towards a healthier,
               stronger you. Visit us for a tour or sign up online in under two
               minutes.
             </p>

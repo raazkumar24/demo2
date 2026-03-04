@@ -32,7 +32,7 @@ export default function Footer() {
                 <Dumbbell className="w-5 h-5 text-white" />
               </div>
               <span className="font-display font-bold text-xl text-white">
-                R FITNESS
+                Your GYM
               </span>
             </Link>
             <p className="text-[#B8BCC8] text-sm leading-relaxed mb-6">
@@ -148,7 +148,7 @@ export default function Footer() {
         <div className="w-full px-4 sm:px-6 lg:px-8 xl:px-12 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-[#B8BCC8] text-sm text-center md:text-left">
-              &copy; {new Date().getFullYear()} R Fitness. All rights reserved.
+              &copy; {new Date().getFullYear()} Your GYM. All rights reserved.
             </p>
             <div className="flex gap-6">
               <Link

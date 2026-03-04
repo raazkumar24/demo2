@@ -33,7 +33,7 @@ const plans = [
   {
     name: 'Basic',
     icon: Star,
-    description: 'Perfect for beginners starting their fitness journey',
+    description: 'Perfect for beginners starting theiYour GYM journey',
     monthlyPrice: 1999,
     quarterlyPrice: 4999,
     annualPrice: 16999,
@@ -508,8 +508,8 @@ export default function Membership() {
                   What You <span className="text-gradient">Get</span>
                 </h2>
                 <p className="text-[#B8BCC8] leading-relaxed mb-8">
-                  Every membership at R Fitness comes with a range of benefits
-                  designed to enhance your fitness experience and help you
+                  Every membership at Your GYM comes with a range of benefits
+                  designed to enhance youYour GYM experience and help you
                   achieve your goals faster.
                 </p>
 
@@ -621,7 +621,7 @@ export default function Membership() {
                   </p>
                   <p>
                     <strong className="text-white">6. Liability:</strong>{' '}
-                    R Fitness is not liable for personal injuries or lost
+                    Your GYM is not liable for personal injuries or lost
                     belongings. Members workout at their own risk.
                   </p>
                 </div>

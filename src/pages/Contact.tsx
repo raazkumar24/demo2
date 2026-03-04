@@ -329,7 +329,7 @@ export default function Contact() {
                     <div className="text-center">
                       <MapPin className="w-12 h-12 text-[#E11D2E] mx-auto mb-4" />
                       <p className="text-white font-medium mb-2">
-                        R Fitness Gym & Swimming Pool
+                        Your GYM Gym & Swimming Pool
                       </p>
                       <p className="text-[#B8BCC8] text-sm">
                         Sector 26, Chandigarh

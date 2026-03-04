@@ -209,7 +209,7 @@ export default function About() {
         <div className="absolute inset-0">
           <img
             src="/images/hero_gym_bg.jpg"
-            alt="About R Fitness"
+            alt="About Your GYM"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-[#0B0B0D]/80" />
@@ -246,7 +246,7 @@ export default function About() {
                 </h2>
                 <div className="space-y-4 text-[#B8BCC8] leading-relaxed">
                   <p>
-                    R Fitness was born from a simple belief: everyone deserves
+                    Your GYM was born from a simple belief: everyone deserves
                     access to world-class fitness facilities. Founded in 2018 by
                     fitness enthusiasts Rahul and Priya Sharma, we started with a
                     modest 3,000 sq ft gym and a vision to transform how
@@ -258,11 +258,11 @@ export default function About() {
                     Olympic-style swimming pool, state-of-the-art equipment, and
                     a team of 20+ certified trainers. But despite our growth, our
                     core mission remains unchanged—to provide a supportive
-                    environment where every member can achieve their fitness
+                    environment where every member can achieve theiYour GYM
                     goals.
                   </p>
                   <p>
-                    Today, R Fitness is home to over 5,000 active members, from
+                    Today, Your GYM is home to over 5,000 active members, from
                     beginners taking their first steps into fitness to
                     professional athletes preparing for competition. Our success
                     stories include weight loss transformations, strength gains,

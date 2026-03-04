@@ -37,7 +37,7 @@ const trainers = [
   },
   {
     name: 'Priya Patel',
-    role: 'Senior Fitness Trainer',
+    role: 'SenioYour GYM Trainer',
     image: '/images/trainer2.jpg',
     experience: '8+ years',
     certifications: ['NASM-CPT', 'ACE Health Coach', 'Yoga Alliance RYT-200'],
@@ -374,7 +374,7 @@ export default function Trainers() {
                 <p className="text-[#B8BCC8] leading-relaxed mb-8">
                   Our personal training programs are designed to give you the
                   individualized attention and expert guidance you need to reach
-                  your fitness goals faster and more effectively.
+                  youYour GYM goals faster and more effectively.
                 </p>
 
                 <div className="space-y-4">
